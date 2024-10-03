@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CassandraGross1
 - 👀 I’m interested in learning Code Platoon to assist in furthering my career and helping charitable organizations, specifically for medical and parrots. 
-- 🌱 I’m currently learning Software Engineering with Code Platoon.
+- 🌱 I’m currently learning Software Engineering and Dev Ops with Code Platoon.
 - 💞️ I’m looking to collaborate on Code Platoon learning.
 - 📫 How to reach me cassandra.gross1105@gmail.com
 - 😄 Pronouns: She/her
